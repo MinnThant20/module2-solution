@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>The Batman Who Laughs</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="tbwl.css">
+</head>	
+<body>
+	<h1>The Batman Who Laughs</h1>
+
+	<div id=pic><img src="https://static.wikia.nocookie.net/marvel_dc/images/2/2d/DC%27s_Year_of_the_Villain_Special_Vol_1_1_Textless_Batman_Who_Laughs_Variant.jpg/revision/latest?cb=20190518135948" width="400" height="520"></div>
+
+
+	<div class="container-fluid">
+		<div class="row">
+			
+			<h2>Informations About The Character</h2> 
+
+			<div class="col-md-4 col-sm-6 col-xs-12", id="m3">
+				<p id="Intro">Intro</p>
+				<div id="m4">
+					<br>
+					<br>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					</p>
+				</div>
+			</div>
+
+            <div class="col-md-4 col-sm-6 col-xs-12", id="m3">
+            	<p id="Paa">PaA</p>
+            	<div id="m4">
+            		<br>
+            		<br>
+            		<p>
+            			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            		</p>
+            	</div>
+            </div>
+
+            <div class="col-md-4 col-sm-12 col-xs-12" , id="m3">
+            	<p id="Personality">Personality</p>
+            	<div id="m4">
+            		<br>
+            		<br>
+            		<p>
+            			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            	    </p>
+            	</div>
+            </div>
+
+		</div>
+	</div>
+</body>
+</html>
